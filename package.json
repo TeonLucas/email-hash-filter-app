@@ -1,0 +1,22 @@
+{
+    "private": true,
+    "name": "email-hash-filter-app",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "nr1 nerdpack:serve",
+        "test": "exit 0"
+    },
+    "nr1": {
+        "uuid": "cc60bfb5-9620-4602-ae4e-c05b92601931"
+    },
+    "dependencies": {
+        "prop-types": "15.7.2",
+        "react": "17.0.2",
+        "react-dom": "17.0.2"
+    },
+    "browserslist": [
+        "last 2 versions",
+        "not ie < 11",
+        "not dead"
+    ]
+}

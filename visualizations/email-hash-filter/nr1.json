@@ -1,0 +1,14 @@
+{
+    "schemaType": "VISUALIZATION",
+    "id": "email-hash-filter",
+    "displayName": "EmailHashFilter",
+    "description": "",
+    "configuration": [
+        {
+            "name": "attributeName",
+            "title": "Attribute to apply filter to",
+            "description": "Name of NRQL attribute you want to filter in the dashboard",
+            "type": "string"
+        }
+    ]
+}

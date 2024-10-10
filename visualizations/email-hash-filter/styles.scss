@@ -1,0 +1,19 @@
+.EmptyState {
+    height: 100%;
+    text-align: center;
+
+    &-cardBody {
+        height: 100%;
+        box-sizing: border-box;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+}
+.Input {
+        align: center;
+        margin: 10%;
+}
+.Button {
+        margin-left: 20px;
+}
